@@ -50,3 +50,6 @@ Tons of help from [this article](https://medium.com/@nirjhor123/webpack-3-quicks
 
 ### Todos
 * Add handlerbars.js
+* Add browser-sync (or some other loader that uses external port)
+* Add normalizer.css
+* Add some SCSS mixins and helpers
