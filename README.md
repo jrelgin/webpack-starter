@@ -1,5 +1,5 @@
 # Basic project starter
-This repo is my attempt to move from gulpjs to webpack. In time, it will probably replace this [little fella](https://github.com/jrelgin/prototype-template-fe) in time.
+This repo is my attempt to move from gulpjs to webpack. In time, it will probably replace this [little fella](https://github.com/jrelgin/prototype-template-fe).
 
 
 ## Install dependencies
