@@ -1,0 +1,26 @@
+{
+  "name": "project-starter",
+  "version": "1.0.0",
+  "description": "This repo is my attempt to move from gulpjs to webpack. In time, it will probably replace https://github.com/jrelgin/prototype-template-fe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/webpack",
+    "build:prod": "./node_modules/.bin/webpack -p",
+    "watch": "./node_modules/.bin/webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrelgin/webpack-starter.git"
+  },
+  "keywords": [],
+  "author": "Jason Elgin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrelgin/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/jrelgin/webpack-starter#readme",
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
+}
